@@ -1,0 +1,12 @@
+# Browser automation
+selenium
+webdriver_manager
+
+# HTML parser
+beautifulsoup4
+
+# REST interface
+requests
+
+# Clipboard access
+pyperclip

@@ -1,0 +1,8 @@
+I have a list of amazon customer reviews for the product: {$1}.
+
+Your task is to compile these reviews and answer me the questions I will ask later based on these reviews.
+
+Here is the list of reviews:
+----
+{$2}
+----
